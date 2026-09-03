@@ -1,21 +1,126 @@
+# Hi 👋, I'm Rakib
+
+### 💻 Frontend Developer | JavaScript & React Enthusiast
+
+I'm a passionate **Frontend Developer from Bangladesh** who loves building modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into clean and interactive websites and continuously improving my development skills.
+
+---
+
+## 🚀 About Me
+
+* 💻 I'm currently learning **Frontend Development**
+* 🌱 Currently focusing on **React.js & TypeScript**
+* 🎯 My goal is to become a professional **Full-Stack Developer**
+* 🧠 I love learning new technologies and solving programming problems
+* ⚡ I enjoy building real-world projects
+* 📚 Currently improving my **JavaScript, React & TypeScript** skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github.com/rakib12r3/rakib12r3/blob/0c42b159bd9a0564418c7a2fcce6123aefd50cd0/ChatGPT%20Image%20Sep%203%2C%202026%2C%2012_48_15%20AM.png" />
-</p>
-<h1 align="center">Hi 👋, I'm Rakib Mia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<!-- ![Alt text] (https://github.com/rakib12r3/rakib12r3/blob/0c42b159bd9a0564418c7a2fcce6123aefd50cd0/ChatGPT%20Image%20Sep%203%2C%202026%2C%2012_48_15%20AM.png) -->
-
-- 📫 How to reach me **rakib12r3m@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib12r3&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib12r3&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib12r3&show_icons=true&locale=en&layout=compact" alt="rakib12r3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib12r3&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib12r3&show_icons=true&locale=en" alt="rakib12r3" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib12r3&" alt="rakib12r3" /></p>
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+
+A responsive e-commerce website built with modern frontend technologies.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🎤 DevConf Landing Page
+
+A modern and responsive developer conference landing page.
+
+**Tech:** HTML • CSS
+
+### ⚛️ React Projects
+
+Building different React applications to improve my component-based development, state management, and API integration skills.
+
+**Tech:** React • JavaScript • TypeScript
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript
+   ↓
+React.js
+   ↓
+TypeScript
+   ↓
+Next.js
+   ↓
+Node.js
+   ↓
+Full Stack Development
+```
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master HTML & CSS
+* ✅ Improve JavaScript
+* ✅ Learn TypeScript
+* 🔄 Master React.js
+* 🔄 Build more real-world projects
+* 🎯 Learn Next.js
+* 🎯 Learn Backend Development
+* 🚀 Become a professional Full-Stack Developer
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/rakib12r3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💙 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and follow my journey as I grow as a developer.
