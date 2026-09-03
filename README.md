@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rakib12r3/rakib12r3/blob/0c42b159bd9a0564418c7a2fcce6123aefd50cd0/ChatGPT%20Image%20Sep%203%2C%202026%2C%2012_48_15%20AM.png" />
+</p>
 # Hi 👋, I'm Rakib
 
 ### 💻 Frontend Developer | JavaScript & React Enthusiast
